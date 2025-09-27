@@ -48,4 +48,4 @@ Program execusion yields similar results to this example:
   
 ## Further_Improvements
 Going further, I am planning to work on the Fare column to increase the accuracy, as well as try out feature engineering.
-I definitely want to try to implement other Bagging approaches, as well as Boosting, such as Adaboost, various Gradient boosting and so on. - any spelling or factual mistakrs?
+I definitely want to try to implement other Bagging approaches, as well as Boosting, such as Adaboost, various Gradient boosting and so on.
