@@ -9,7 +9,7 @@ I have attempted to solve my first Machine Learning problem using the knowledge 
 ## Features 
 1. Preprocessing:
    I have decided to not include Name, Ticket, Fair and Cabin columns.
-   For the Age column, I have used mean imputation to fill in the missing data, as well as divide the ages into 4 groups for convience.
+   For the Age column, I have used mean imputation to fill in the missing data, as well as divide the ages into 4 groups for convenience.
    
    <img width="549" height="64" alt="image" src="https://github.com/user-attachments/assets/f2fbe83b-dad1-49d6-a2b0-40786451bd02" />
    
