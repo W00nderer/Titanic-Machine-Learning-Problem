@@ -1,5 +1,5 @@
 # Titanic Machine Learning Problem 
-I have attempted to solve my first Machine Learning problem using the knowdledge I gained in my Machine Learning class. I have started with a simple Decision Tree model, and progressed to Random Forest with bootstrapping and hyper parameter tuning, which is the version I am presenting here. 
+I have attempted to solve my first Machine Learning problem using the knowledge I gained in my Machine Learning class. I have started with a simple Decision Tree model, and progressed to Random Forest with bootstrapping and hyper parameter tuning, which is the version I am presenting here. 
 
 ## Table of Contents 
   - [Features](#features)
